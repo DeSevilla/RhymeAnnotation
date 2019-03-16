@@ -1,0 +1,3 @@
+This is a simple tool for annotating and visualizing non-literal repetition in text. My original intended use case was to use it to annotate rhyme schemes on songs, but nothing about the actual implementation requires that. It allows users to annotate text with color, then uses a self-similarity matrix to visualize the repetition.
+
+To use, enter a passage of text into the box and hit "submit". Then click on words in the displayed passage to give them the specified color. To change the color you're annotating with, just type it into the new box which shows up and hit "submit". Anything that CSS would accept as a color name (blue, red, #ac15bb) works.
